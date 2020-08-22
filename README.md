@@ -1,8 +1,10 @@
 # ActiveAdmin SimpleForm [![Gem Version](https://badge.fury.io/rb/activeadmin_simple_form.svg)](https://badge.fury.io/rb/activeadmin_simple_form)
 
-An Active Admin plugin to use Simple Form in place of Formtastic in edit views.
+WARNING: this component is just a proof of concept, it can be useful for experimental purposes.
 
-WARNING: this component is a Beta version, some Active Admin functionalities could not work as expected
+---
+
+An Active Admin plugin to use Simple Form in place of Formtastic in edit views.
 
 ## Install
 
